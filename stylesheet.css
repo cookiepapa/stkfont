@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Brand New Hyosung';
+    src: url('BrandNewHyosungB.woff2') format('woff2'),
+        url('BrandNewHyosungB.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brand New Hyosung';
+    src: url('BrandNewHyosungL.woff2') format('woff2'),
+        url('BrandNewHyosungL.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brand New Hyosung';
+    src: url('BrandNewHyosungM.woff2') format('woff2'),
+        url('BrandNewHyosungM.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
